@@ -14,3 +14,11 @@ Assignment Submission:
 You can share the assignment link by uploading the completed assignment to any of the free deployment services like Vercel, Firebase, Netlify GitHub Pages, Heroku, Surge Render, and GitLab Pages
 Once the Assignment is done, fill out this form: https://forms.gle/yP1qXdy9Uuyqa3kx7
 Note: Your assignment will not be considered If you don't submit the deployment link
+
+To Install:
+
+run command to install node modules
+npm install https://github.com/Leelasai24/Dashboard_jsx.git
+
+run command to install project
+npm run dev
